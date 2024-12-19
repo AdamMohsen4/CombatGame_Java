@@ -1,0 +1,5 @@
+Room Dojo: You are outside the dojo. Go south.
+Room 4: You are in a four way street. Go North, South, East or West.
+Room Challanger: There is a challanger awaiting you. 
+Room Garden: There are wonderful flowers, vedgetables and fruits in this garden. Hopefully no one notices if I take an apple with me.
+Room Bridge: You are at the bridge. The sound of crickets, frogs and birds fill the air alongside the smell of seaweed. How relaxing!
