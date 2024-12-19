@@ -69,12 +69,4 @@
 - Implement a scoring system and game modes.
 - Introduce new animations and combat mechanics.
 
-## License
-
-This project is licensed under the MIT License. See the `LICENSE` file for details.
-
-## Acknowledgments
-
-- Developed by Adam Abdulmajid
-- Powered by Java Swing for graphics and file-based room navigation.
 
